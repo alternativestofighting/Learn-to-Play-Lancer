@@ -98,6 +98,11 @@
       "isActive": true
     },
     {
+      "id": "learn-to-play-lancer",
+      "title": "Learn to Play Lancer",
+      "isActive": true
+    },
+    {
       "id": "templatemacro",
       "title": "LaSossis's Template Macro",
       "isActive": true
