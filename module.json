@@ -7,6 +7,105 @@
     "verified": "13.351",
     "maximum": "13.351"
   },
+  "description": "I've created this short, simple, two-part mission to help teach new GMs how to run Lancer RPG on Foundry and teach new players how to play Lancer. I've kept the theme for this mission intentionally vague, so folks who want to just run two combat scenes can do so, but groups that wish to dip their toes into Lancer's amazing setting and lore can use this as a staging point for further action.",
+  "authors": [
+    {
+      "name": "Emgee",
+      "email": "alternativestofighting@gmail.com",
+      "url": "https://startplaying.games/gm/emgee",
+      "discord": "oh_emgee",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/alternativestofighting/Learn-to-Play-Lancer",
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "ltpl-adventures",
+      "label": "Adventures",
+      "path": "packs/adventures",
+      "type": "Adventure",
+      "ownership": {
+        "ASSISTANT": "OWNER"
+      },
+      "system": "lancer",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "lancer",
+        "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "requires": [
+      {
+        "id": "JB2A_DnD5e",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-enhanced-journal",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "sequencer",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "recommends": [
+      {
+        "id": "about-face",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "actor-token-portraits",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "grid-aware-auras",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "lancer-alternative-sheets",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "lancer-automations",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "lancer-weapon-fx",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "terrain-height-tools",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  }
+}{
+  "id": "learn-to-play-lancer",
+  "title": "Learn to Play Lancer",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13.351",
+    "verified": "13.351",
+    "maximum": "13.351"
+  },
   "description": "<p>I've created this short, simple, two-part mission to help teach new GMs how to run Lancer RPG on Foundry and teach new players how to play Lancer. I've kept the theme for this mission intentionally vague, so folks who want to just run two combat scenes can do so, but groups that wish to dip their toes into Lancer's amazing setting and lore can use this as a staging point for further action.</p>
 <p>At its core, this mission involves escorting a cargo truck through territory that is beset by enemies - be they pirates, raiders, bandits, or whatever else. After an encounter with these enemies, the players are charged with defending a lightly fortified base from enemy attack. This can also be interpreted as holding off attackers while the fort's residents can safely get underground, holding a dropship landing pad until the Lancers can extract, or guarding a planted bomb while it arms. How you make this mission yours is up to you, but I recommend leaning into your players' interests and intuitions - let them lead the way!</p>
 <hr>
