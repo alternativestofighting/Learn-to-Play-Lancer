@@ -1,4 +1,5 @@
 # Learn to Play Lancer RPG - A Free Introduction for GMs & Players
+![Pretty banner of an Empakaai 'encouraging' folks to play Lancer](/assets/artwork/banner-learn-to-play-lancer.webp)
 I've created this short, simple, two-part mission to help teach new GMs how to run Lancer RPG on Foundry and teach new players how to play Lancer. I've kept the theme for this mission intentionally vague, so folks who want to just run two combat scenes can do so, but groups that wish to dip their toes into Lancer's amazing setting and lore can use this as a staging point for further action.
 All assets used in this adventure are free, created and made public by the Lancer community, and attributed in the [Attributions](/Attributions.md) page.
 ## The Mission
