@@ -26,15 +26,15 @@ Here’s a brief description of the contents of the Module Profile I provide:
 * Force Client Settings - Ensures that player UI and settings will be consistent with yours.
 * Foreign’s Copy Environment - Allows for exporting and importing all World settings.
 * Grid-Aware Auras - Enables area-based effects, like Smoke Mines, Razor Swarms, etc.
-* JB2A Free Content - A fantastic library of visual effects for weapons, systems, and more.
+* JB2A Free Content - A fantastic library of visual effects for weapons, systems, and more. (Required for provided Macros to work)
 * Lancer Automations - Powerful engine for automating Lancer rules (and the great HUD!)
 * Lancer Combat Banner - Announces turns with art on a colorful banner!
 * Lancer Weapon FX - A library of VFX/SFX for each first-party Lancer weapon.
 * LaSossis’ Template Macro - Quickly add terrain, cover, and other effects to maps.
 * Module Profiles - Allows saving, switching, exporting, and importing of Module Lists.
-* Monk’s Enhanced Journal - Better journals with unique types, like People, Quests, etc.
+* Monk’s Enhanced Journal - Better journals with unique types, like People, Quests, etc. (Required for provided Journals to work as intended - you won't be able to drag-and-drop the OpFor onto maps from specific player-count sitreps without this, for example)
 * Monk’s Little Details - An array of minor features, fixes, and key bindings.
 * Ownership Viewer - Clearly displays who has what permissions for all Sidebar entries.
 * Terrain Height Tools - Configure and draw fully-featured Terrain onto your maps.
 * Token Border Supplements - Helps orient multi-hex Tokens and customizes appearance.
-Remaining modules are generally pre-requisites or dependencies of the aforementioned modules. These include: CodeMirror, Color Picker, Lancer Style Library, libWrapper, Sequencer, socketlib, Temporary Custom Statuses, Token Magic FX, and Wall Height.
+Remaining modules are generally pre-requisites or dependencies of the aforementioned modules. These include: CodeMirror, Color Picker, Lancer Style Library, libWrapper, Sequencer (Required for provided Macros to work), socketlib, Temporary Custom Statuses, Token Magic FX, and Wall Height.
