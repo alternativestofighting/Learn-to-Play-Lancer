@@ -11,7 +11,7 @@
 * There are a few Deployables that use the default art provided by [Retrograde Minis](https://retrogrademinis.com/) for the Lancer system on Foundry.
 * The Cargo Truck uses "Big Truck," originally made by Alkyama for the No Room for a Wallflower campaign and distributed in the [Community Wallflower Resources Google Drive](https://drive.google.com/drive/folders/1dsxLA5G4BfwqygLeHXYNQ76FB7HBhCd7).
 ## Player Mechs:
-* These are all either personal edits of Retrograde Minis tokens or those made and shared by folks in the [[Pilot.net Lancer Discord channel!](https://discord.com/invite/lancer)
+* These are all either personal edits of Retrograde Minis tokens or those made and shared by folks in the [Pilot.net Lancer Discord channel!](https://discord.com/invite/lancer)
 ## Written Material / Foundry Configs / Pilot & Mech CompCon Data:
 * I made all these myself! Some are made just for this project, and some are examples of what I use in my work as a [professional Lancer DM](https://startplaying.games/gm/emgee). I also maintain a community guide for [Recommended Modules for Lancer on Foundry V13](https://docs.google.com/document/d/1LMheBJ9F1FDio65x257kQ2WCsqk-oZpae7qhPCbzNak)
 ## Banner Image:
