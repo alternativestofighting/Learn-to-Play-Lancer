@@ -11,7 +11,7 @@ Here's a step-by-step guide to how to set up this adventure with all of the modu
 5. Click the "Import Profiles" button. Paste the entire contents of the [Module Profiles](/foundry-configs/module-profiles_learn-to-play-lancer.txt) list into the empty box here, then click the "Import Profile" button.
 6. Click the green "Activate" button for the Learn to Play Lancer profile.
    This will **restart the world**.
-7. Download the [Foundry Settings Export JSON](/foundry-configs/foundry-setting-export_learn-to-play-lancer.json) file from this repository.
+7. Download the [Foundry Settings Export JSON](/foundry-configs/foundry-settings-export_learn-to-play-lancer.json) file from this repository.
 8.  Go to the Game Settings page, then right-click the upper-right area (where you see "Foundry Virtual Tabletop, the Build Version, the Lancer system version, and the Active Module count) and choose "Import Settings" from the drop-down menu.
 9.  Select the file you just downloaded and click the "Import Settings" button.
     This will **restart the world**.
