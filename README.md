@@ -8,33 +8,28 @@ This mission can be run for 3-5 players. If you have fewer players, I recommend 
 ## Foundry Modules:
 I’ve tried to design this adventure to work without many Modules as necessities. That said, I’ve also put a lot of work into making this adventure work out-of-the-box with some of the most powerful modules that Foundry has to offer for the Lancer system - including LaSossis’ [Lancer Automations](https://agraael.github.io/lancer-automations/) package.
 I maintain a [Recommended Modules for Lancer on Foundry V13](https://docs.google.com/document/d/1LMheBJ9F1FDio65x257kQ2WCsqk-oZpae7qhPCbzNak/) document for the Pilot.net community. If you’d like to learn more about what is out there and what each module does, I go into detail with reviews, examples, and screenshots for most of the incredible Lancer modules used today.
-If you want to use the modules that I designed this adventure with, here is a file with config data for the Module Profiles module. Generally, when I start a new Lancer World on Foundry, I:
-1. Use the Lancer Compendium Manager to upload all relevant LCP data from the free public list AND upload the individual LCP files with NPC information - all of which require purchase on itch.io.
-2. Enable the Module Profiles module in the Game Settings Tab > Manage Modules. Click “Save Module Settings: and restart the world.
-3. Return to Game Settings > Manage Modules. Click the Manage Module Preference button, then the “Import Profile” button. Paste the contents of my “Module Profiles - Learn to Play Lancer” text file into the text box, then click Import Profile. Lastly, click the green “Activate” button for the imported profile, and the world will restart once more.
-4. Configure your World as you prefer! OR go to the Game Settings tab and right-click the top-right corner (where you see “Foundry Virtual Tabletop,” your Build Version, Lancer system version, and module count). Click “Import Settings,” then choose my “Full Game Settings” .json file. The Copy Environment module will let you choose which settings you would like to bring into your new World.
-Here’s a brief description of the contents of the Module Profile I provide:
+If you want to use the modules that I designed this adventure with, here’s a brief description of the contents of the [Module Profile](/foundry-configs/module-profiles_learn-to-play-lancer.txt) I provide:
 * 🖐️ Raise My Hand - A simple tool for getting the GM’s attention and an X-Card button.
-* About Face - Keeps tokens from rotating, and flips them when they turn around.
-* Actor Token Portraits - Displays Token images in the Actors tab instead of Portraits.
-* Annoying’s Alternative Lancer Sheets - Beautiful and helpful character sheets!
-* Break Time - Lets you pause the game for breaks and log who is AFK/Back.
-* Carolingian UI - Eliminates unnecessary UI, adds a scene navigator, and more.
-* Carousel Combat Tracker - Tracks Lancer-style initiative and shows HP/Heat.
-* Dice So Nice - Adds player-customizable dice to roll on-screen.
-* Dice Tray - Adds buttons below the Chat Log for rolling d6s & d20s.
-* Force Client Settings - Ensures that player UI and settings will be consistent with yours.
-* Foreign’s Copy Environment - Allows for exporting and importing all World settings.
-* Grid-Aware Auras - Enables area-based effects, like Smoke Mines, Razor Swarms, etc.
-* JB2A Free Content - A fantastic library of visual effects for weapons, systems, and more. (Required for provided Macros to work)
-* Lancer Automations - Powerful engine for automating Lancer rules (and the great HUD!)
-* Lancer Combat Banner - Announces turns with art on a colorful banner!
-* Lancer Weapon FX - A library of VFX/SFX for each first-party Lancer weapon.
-* LaSossis’ Template Macro - Quickly add terrain, cover, and other effects to maps.
-* Module Profiles - Allows saving, switching, exporting, and importing of Module Lists.
-* Monk’s Enhanced Journal - Better journals with unique types, like People, Quests, etc. (Required for provided Journals to work as intended - you won't be able to drag-and-drop the OpFor onto maps from specific player-count sitreps without this, for example)
-* Monk’s Little Details - An array of minor features, fixes, and key bindings.
-* Ownership Viewer - Clearly displays who has what permissions for all Sidebar entries.
-* Terrain Height Tools - Configure and draw fully-featured Terrain onto your maps.
-* Token Border Supplements - Helps orient multi-hex Tokens and customizes appearance.
-Remaining modules are generally pre-requisites or dependencies of the aforementioned modules. These include: CodeMirror, Color Picker, Lancer Style Library, libWrapper, Sequencer (Required for provided Macros to work), socketlib, Temporary Custom Statuses, Token Magic FX, and Wall Height.
+* [About Face](https://github.com/mclemente/about-face) - Keeps tokens from rotating, and flips them when they turn around.
+* [Actor Token Portraits](https://github.com/DroiD16/actor-token-portraits) - Displays Token images in the Actors tab instead of Portraits.
+* [Annoying’s Alternative Lancer Sheets](https://github.com/annoyedb/lancer-alternative-sheets) - Beautiful and helpful character sheets!
+* [Break Time](https://github.com/ironmonk108/breaktime) - Lets you pause the game for breaks and log who is AFK/Back.
+* [Carolingian UI](https://github.com/crlngn/crlngn-ui) - Eliminates unnecessary UI, adds a scene navigator, and more.
+* [Carousel Combat Tracker](https://github.com/theripper93/combat-tracker-dock) - Tracks Lancer-style initiative and shows HP/Heat.
+* [Dice So Nice](https://gitlab.com/riccisi/foundryvtt-dice-so-nice) - Adds player-customizable dice to roll on-screen.
+* [Dice Tray](https://github.com/mclemente/fvtt-dice-tray) - Adds buttons below the Chat Log for rolling d6s & d20s.
+* [Force Client Settings](https://gitlab.com/kimitsu_desu/force-client-settings) - Ensures that player UI and settings will be consistent with yours.
+* [Foreign’s Copy Environment](https://github.com/League-of-Foundry-Developers/foundryvtt-forien-copy-environment) - Allows for exporting and importing all World settings.
+* [Grid-Aware Auras (LA Fork)](https://github.com/Wibble199/FoundryVTT-Grid-Aware-Auras) - Enables area-based effects, like Smoke Mines, Razor Swarms, etc.
+* [JB2A Free Content](https://github.com/Jules-Bens-Aa/JB2A_DnD5e) - A fantastic library of visual effects for weapons, systems, and more. (Required for provided Macros to work)
+* [Lancer Automations](https://github.com/Agraael/lancer-automations) - Powerful engine for automating Lancer rules (and the great HUD!)
+* [Lancer Combat Banner](https://github.com/Agraael/lancer-combat-banner) - Announces turns with art on a colorful banner!
+* [Lancer Weapon FX](https://github.com/Z3nner/lancer-weapon-fx) - A library of VFX/SFX for each first-party Lancer weapon.
+* [LaSossis’ Template Macro](https://github.com/Agraael/templatemacro) - Quickly add terrain, cover, and other effects to maps.
+* [Module Profiles](https://github.com/NateHawk85/module-profiles) - Allows saving, switching, exporting, and importing of Module Lists.
+* [Monk’s Enhanced Journal](https://github.com/ironmonk108/monks-enhanced-journal) - Better journals with unique types, like People, Quests, etc. (Required for provided Journals to work as intended - you won't be able to drag-and-drop the OpFor onto maps from specific player-count sitreps without this, for example)
+* [Monk’s Little Detail](https://github.com/ironmonk108/monks-little-details)s - An array of minor features, fixes, and key bindings.
+* [Ownership Viewer](https://github.com/mclemente/fvtt-ownership-viewer) - Clearly displays who has what permissions for all Sidebar entries.
+* [Terrain Height Tools (LA Fork)](https://github.com/Wibble199/FoundryVTT-Terrain-Height-Tools) - Configure and draw fully-featured Terrain onto your maps.
+* [Token Border Supplements](https://codeberg.org/Bolts/hex-size-support) - Helps orient multi-hex Tokens and customizes appearance.
+Remaining modules are generally pre-requisites or dependencies of the aforementioned modules. These include: [CodeMirror](https://github.com/League-of-Foundry-Developers/codemirror-lib), [Color Picker](https://github.com/Larkinabout/fvtt-color-picker), [Lancer Style Library](https://github.com/Agraael/lancer-style-library), [libWrapper](https://github.com/ruipin/fvtt-lib-wrapper), [Sequencer](https://github.com/fantasycalendar/FoundryVTT-Sequencer) (Required for provided Macros to work), [socketlib](https://github.com/farling42/foundryvtt-socketlib), [Temporary Custom Statuses](https://github.com/Agraael/temporary-custom-statuses), [Token Magic FX](https://github.com/Feu-Secret/Tokenmagic), and [Wall Height](https://github.com/theripper93/wall-height).
