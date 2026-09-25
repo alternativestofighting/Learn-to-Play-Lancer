@@ -1,5 +1,5 @@
 {
-  "name": "V13 | Lancer | Mostly Automated Luxury Gay Space Communism",
+  "name": "Learn to Play Lancer | V13",
   "description": "V13 Lancer Automations setup - Specific for Learn to Play Lancer",
   "modules": [
     {
